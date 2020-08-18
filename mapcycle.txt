@@ -10,10 +10,9 @@ cp_gorge
 cp_granary
 cp_gravelpit
 cp_mountainlab
-cp_orange_x3
-cp_orangeharbor
 cp_overgrown_rc7b
 cp_powerhouse
+cp_sunshine
 cp_tidal_v4
 cp_well
 ctf_2fort_invasion
@@ -38,7 +37,6 @@ koth_harvest_event
 koth_nucleus
 koth_probed
 koth_slaughter_b2a
-koth_trainsawlaser_rc2
 koth_undergrove_rc1
 avanti_b1
 pl_badwater
