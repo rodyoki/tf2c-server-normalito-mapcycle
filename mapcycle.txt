@@ -1,7 +1,9 @@
+balloon_race_v2b
 cp_alloy_rc3
 cp_blackmesa_final
 cp_degrootkeep
 cp_dustbowl
+cp_freight_final1
 cp_glassworks_rc6a
 cp_gorge
 cp_granary
@@ -10,6 +12,7 @@ cp_mountainlab
 cp_overgrown_rc7b
 cp_powerhouse
 cp_process_final
+cp_rats_alpha2
 cp_sunshine_rc9
 cp_tidal_v4
 cp_well
@@ -22,16 +25,23 @@ ctf_biomass_rc1
 ctf_casbah
 ctf_convoy_v2
 ctf_doublecross
+ctf_FaceBarn_B2
+ctf_hallofdeath
 ctf_resources_beta
+ctf_vikings_final
+ctf_well_classic_b3
+cyberpunk
 dm_duel_elevator
 dm_hub_b1
 dom_4hightower_v2
+dom_flood2_redux_rc2
 dom_hydro
 dom_oilcanyon
 dom_shaft_a1
 koth_badlands
 koth_harvest_event
 koth_nucleus
+koth_sandvich_b1
 koth_slaughter_b2a
 koth_undergrove_rc1
 pl_badwater
@@ -63,4 +73,3 @@ vip_mineside
 vip_mountainlab_rc3
 vip_steel
 vip_trainyard
-vip_upward_v4
