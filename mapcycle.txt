@@ -1,3 +1,4 @@
+arena_flask
 balloon_race_v2b
 cp_alloy_rc3
 cp_blackmesa_final
@@ -9,6 +10,7 @@ cp_gorge
 cp_granary
 cp_gravelpit
 cp_mountainlab
+cp_orange_x3_natural
 cp_overgrown_rc7b
 cp_powerhouse
 cp_process_final
@@ -21,11 +23,11 @@ ctf_2fort_revamp_b3
 ctf_2fort_tfc
 ctf_4bine
 ctf_4fort_rotating_v2
+ctf_FaceBarn_B2
 ctf_biomass_rc1
 ctf_casbah
 ctf_convoy_v2
 ctf_doublecross
-ctf_FaceBarn_B2
 ctf_hallofdeath
 ctf_resources_beta
 ctf_vikings_final
@@ -66,8 +68,8 @@ plr_4tower_a2
 plr_nightfall_final
 sd_doomsday
 sd_push_b1				
-vip_dustbowl_a1
 vip_badwater
+vip_dustbowl_a1
 vip_harbor
 vip_mineside
 vip_mountainlab_rc3
